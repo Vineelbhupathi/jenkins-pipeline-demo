@@ -34,3 +34,4 @@ pipeline {
     }
 
 }
+echo "Running CI pipeline for Vyomanant Academy"
